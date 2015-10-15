@@ -1,0 +1,15 @@
+{
+  "name": "@guitarpedal4/how-to-npm",
+  "version": "1.0.0",
+  "description": "tutorial execution",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "how-to-npm"
+  },
+  "author": "ethan",
+  "license": "ISC"
+}
